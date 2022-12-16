@@ -1,0 +1,71 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 62.5%;
+}
+
+/* Navbar Styles */
+
+#header {
+    display: flex;
+    background-color: #f1f1f1;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 5vh;
+}
+
+h1 {
+    flex: 1;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 2vh;
+    font-size: 2.1rem;
+}
+
+img {
+    flex: 1;
+    width: 50px;
+    margin-bottom: 1vh;
+    margin-top: 1vh;
+}
+
+/* Body Styles */
+    
+#main-card {
+    background-color: #f1f1f1;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    padding-top: 2vh;
+    padding-bottom: 2vh;
+}
+
+img.foodpic {
+    display: block;
+    width: 50vw;
+    height: auto;
+    margin-top: 3vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    font-family: "Tahoma", sans-serif;
+    word-wrap: break-word;
+}
+
+a {
+display: block;
+text-align: center;
+}
+
+
+
+
